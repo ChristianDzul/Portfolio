@@ -10,15 +10,9 @@ h3 {
 }
 
 .menu {
-  margin-top: 2rem;
+  margin-top: 1rem;
   padding: 0.5rem;
   background: #7a7979;
-  border-top: 0.1rem solid rgba(86, 86, 86, 0.5);
-  border-bottom: 0.1rem solid rgba(86, 86, 86, 0.5);
-  position: sticky;
-  z-index: 11;
-  top: 0;
-  display: grid;
 }
 
 .Contact-info {
@@ -26,6 +20,24 @@ h3 {
   border-top: 4px solid #b9a821;
   border-bottom: 4px solid #b9a821;
 }
+/* 
+.social-network-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #7a7979;
+  padding: 1rem;
+}
+
+.Social-network-bar a {
+  color: white;
+  margin: 0 0.5rem;
+  text-decoration: none;
+}
+
+.social-network-bar a:hover {
+  color: #b9a821;
+} */
 
 aside {
   background-color: rgba(86, 86, 86, 0.217);
