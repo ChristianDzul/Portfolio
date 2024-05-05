@@ -3,17 +3,24 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
+  background-color: #f2efef;
 }
 
 header {
   background-color: #333;
   color: #fff;
   padding: 20px 0;
+  text-align: right;
 }
 
 .menu {
   width: 80%;
   margin: 0 auto;
+}
+
+#about {
+  width: 120;
+  height: 120;
 }
 
 nav ul {
@@ -33,7 +40,7 @@ nav ul li a {
 
 main {
   width: 80%;
-  margin: 20px auto;
+  /* margin: 20px auto; */
 }
 
 section {
@@ -46,7 +53,7 @@ h1 {
 
 aside {
   width: 20%;
-  float: right;
+  /* float: right; */
 }
 
 .related {
